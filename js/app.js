@@ -19,7 +19,8 @@ let porche = new Car('Red', 'Porsche 911', 2011, 'TRD2547');
 let lambor = new Car('Gray', 'Lamborghini', 2013, 'KYT7854');
 let jaguar = new Car('Yellow', 'Jaguar XE', 2018, 'HTJ8562');
 let landerRover = new Car('White', 'Rover Range Rover Sport', 2020, 'OUY87412');
+let ferrari = new Car('Yellow', 'Ferrari Enzo', 2015, 'GTO5562');
 
 // Display result
-console.log(jaguar);
 document.querySelector('#app').innerHTML = 'My Favourite car is ' + jaguar.mark;
+console.log(jaguar);
