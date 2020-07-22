@@ -1,3 +1,3 @@
 # JavaScript Object Constructors
 
-min app object constructor function this constructor function can also define methods
+min app object constructor function this constructor function can also define methods using html, css, vanilla javascript & es6
